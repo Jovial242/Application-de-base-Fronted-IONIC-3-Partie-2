@@ -14,5 +14,9 @@ Arès avoir cliqué sur le bouton 'NOUVEL APPAREIL', vous remarquez qu'on à la 
 
 
 <b>Image 3:</b> Emmargement du formulaire
+![capture5](https://user-images.githubusercontent.com/20045653/58949508-ecd40580-878c-11e9-9fb7-1941a63fb40e.png)
+
+
+<b>Image 4:</b> Après avoir emmarger le formulaire et en cliquant sur le bouton 'AJOUTER APPAREIL', vous remarquerez qu'il y aun nouvel appareil RADIO
 
 ![capture4](https://user-images.githubusercontent.com/20045653/58946223-b47cf900-8785-11e9-9359-f4961675d0de.png)
