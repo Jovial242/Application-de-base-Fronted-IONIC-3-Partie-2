@@ -6,7 +6,7 @@ Cette deuxième partie de notre projet permet à l'utilisateur, d'insérer un ap
 ![capture11](https://user-images.githubusercontent.com/20045653/58947196-bc3d9d00-8787-11e9-9c17-e8c95aa695f0.png)
 
 <b>Image 2:</b> Possibilité d'ajouter un nouvel appareil avec sa description en cliquant sur le bouton 'NOUVEL APPAREIL'. <br/>
-Arès avoir cliqué sur le bouton 'NOUVEL APPAREIL', vous remarquez qu'on à la possibilité de créer autant de ligne de description que l'on veut et les supprimer aussi en cliquant sur l'icone rouge.
+Arès avoir cliqué sur le bouton 'NOUVEL APPAREIL', vous remarquerez qu'on a la possibilité de créer autant de ligne de description que l'on veut et les supprimer aussi en cliquant sur l'icone rouge.
 
 ![capture1](https://user-images.githubusercontent.com/20045653/58946183-a29b5600-8785-11e9-9043-ada04c5cf740.png)
 
